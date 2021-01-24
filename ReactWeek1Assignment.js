@@ -30,6 +30,6 @@ const webDevFundamentals = new Bootcamp ("React", 1);
 //Creating the Student//
 const student1 = new Student ("nasir", "nasir@gmail", "seattle");
 
-//Student is registered to class//
+//Student is registered to the class//
 webDevFundamentals.registerStudent(student1);
 
