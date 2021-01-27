@@ -1,5 +1,4 @@
-# React-Coursework-Scripts
+# React-Coursework
 React class coursework for the Nucamp Bootcamp
 
-A collection of scripts.
-1)Student Registration Code
+
