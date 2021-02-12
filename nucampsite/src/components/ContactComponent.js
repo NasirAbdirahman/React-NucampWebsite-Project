@@ -70,7 +70,7 @@ class Contact extends Component {
             touched: {...this.state.touched, [field]: true}
         });
     }
-
+    //Tracks any changes to the Inputs value by User//
     handleInputChange(event) {
         const target = event.target;
         const name = target.name;
