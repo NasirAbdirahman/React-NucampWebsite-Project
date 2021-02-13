@@ -9,3 +9,5 @@ export const ConfigureStore = () => {
 
     return store;
 }; 
+
+//Function returns redux store//
