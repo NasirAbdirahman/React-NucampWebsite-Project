@@ -22,6 +22,7 @@ const mapStateToProps = state => {
     };
 };
 
+//Object full of actioncreators, they all dispatch their actions when called//
 const mapDispatchToProps = {
     postComment: (campsiteId, rating, author, text) => (postComment(campsiteId, rating, author, text)),
     fetchCampsites: () => (fetchCampsites()),
